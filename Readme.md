@@ -42,7 +42,12 @@ The Web Application is built using:
   - MySQL
 
 ## Project Demo
-[Click Me :)](https://drive.google.com/file/d/1ufymm9OYNY8kJBdFSs8TBRGgd0NWmTzN/view?usp=sharing)
+[Click Me For Better Quality :)](https://drive.google.com/file/d/1v0m6lWbcYQi2e-C1i3bQJBq5T-tNiENd/view?usp=share_link)
+
+
+https://user-images.githubusercontent.com/90320433/235277084-ae5bc564-91d0-41b8-9dbe-6deaa7ea167d.mp4
+
+
 ## Screenshots
 ![1](https://user-images.githubusercontent.com/90320433/215306947-903be1f1-3930-4d62-b244-f2656f87c45c.png)
 ![5](https://user-images.githubusercontent.com/90320433/215306989-04d201ee-e93d-4cd5-b3ca-ebb218da0e9e.png)
